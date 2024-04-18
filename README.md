@@ -32,7 +32,7 @@ To replicate or explore the analysis:
 - [Mayank Paliwal](https://github.com/CodeWithMayank-Py)
 
 ## Acknowledgements
-- COVID-19 dataset [Coursera](https://github.com/CodeWithMayank-Py/Covid19-Data-Analysis-Using-Python/blob/main/datasets/covid19_Confirmed_dataset.csv).
-- Happiness dataset [Coursera](https://github.com/CodeWithMayank-Py/Covid19-Data-Analysis-Using-Python/blob/main/datasets/worldwide_happiness_report.csv).
+- COVID-19 [Dataset](https://github.com/CodeWithMayank-Py/Covid19-Data-Analysis-Using-Python/blob/main/datasets/covid19_Confirmed_dataset.csv).
+- Happiness [Dataset](https://github.com/CodeWithMayank-Py/Covid19-Data-Analysis-Using-Python/blob/main/datasets/worldwide_happiness_report.csv).
 
 Feel free to contribute to this project by opening issues or pull requests.
